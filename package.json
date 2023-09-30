@@ -2,6 +2,7 @@
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://SanchitSah12.github.io/react-weather-app", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -19,6 +20,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

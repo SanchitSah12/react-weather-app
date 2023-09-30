@@ -44,7 +44,6 @@
     flex:1 1;
     grid-template-columns: auto auto;
     padding: 5px 15px;
-
 }
 
 
@@ -82,4 +81,8 @@
 .day_btn label:last-child{
     flex:1 1;
     text-align: right;
+}
+
+.acc{
+    padding-top: 100px;
 }

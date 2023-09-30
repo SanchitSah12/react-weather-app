@@ -2,3 +2,9 @@
   max-width: 1080px;
   margin: 20px auto;
 }
+body{
+  background-image: url("https://img.freepik.com/free-photo/white-cloud-blue-sky_74190-2381.jpg?w=1060&t=st=1696070887~exp=1696071487~hmac=489bfdf442b5ad59f2764ca2908538e12c7fab2721d52ff74412a6d25698d2c4");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #fff;
+}
