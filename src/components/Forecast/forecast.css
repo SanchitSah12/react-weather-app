@@ -56,10 +56,10 @@
 }
 
 .daily_details_grid_item label:first-child{
-    color: #757575;
+    color: wheat;
 }
 .daily_details_grid_item label:last-child{
-    color: #212121
+    color: white
 }
 
 .day_btn{
